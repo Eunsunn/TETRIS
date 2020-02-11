@@ -1,6 +1,5 @@
 # TETRIS
-tetris custom game
 
 ### 테트리스로 집으로 가는 길 만들기
-- TETRIS C++ 구현
-- customize
+- 기본 TETRIS 구현
+- 스토리에 맞게 
